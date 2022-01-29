@@ -15,4 +15,4 @@ function Login() {
     )
 }
 
-export { Login };
+export default Login;

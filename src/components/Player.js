@@ -1,5 +1,6 @@
-function Player() {
-    return <div></div>;
+function Player({ spotify }) {
+
+    return <div>Hello!</div>;
 }
 
-export default Player;
+export default Player
